@@ -37,7 +37,10 @@ export default function RootLayout({
       }}
     >
       <html lang="en">
-        <body className={`${inter.className} bg-dark-2`}>
+        <body
+          className={`${inter.className} bg-dark-2`}
+          suppressHydrationWarning
+        >
           {children}
           <Toaster />
         </body>
