@@ -18,9 +18,9 @@ Welcome to Yoom! A feature-rich Zoom clone that supports video conferencing with
 
 Video calling integration is typically perceived as complex and time-consuming, often requiring weeks or months of development. This project aimed to demonstrate how third-party tools like Stream can dramatically reduce development time while still delivering enterprise-grade functionality.
 
-To build a fully-functional Zoom clone that handles video meetings with enterprise-level features in hours instead of weeks or months.
+The goal of this project is building a fully functional Zoom clone that supports video meetings with advanced features in just a few hours.
 
-Real-time video/audio streaming, meeting scheduling, recording capabilities, and responsive design across all devices.
+It includes real-time video and audio streaming, meeting scheduling, recording options, and a responsive design that works seamlessly across all devices.
 
 **Technologies Used:** Next.js, TypeScript, Tailwind CSS, Shadcn UI, Clerk, Stream
 
